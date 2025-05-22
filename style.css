@@ -1,0 +1,19 @@
+body {
+ text-align: center;   
+ align-items: center;
+ font-family: Helvetica;
+}
+
+
+ul {
+    background-color: black; 
+    height: 30px; 
+    list-style: none;  
+    }
+
+li {
+float: left;
+color:aliceblue;
+padding-left: 125px;
+padding-top: 5px ;
+    }
