@@ -5,6 +5,7 @@ body {
 }
 
 
+
 ul {
     background-color: black; 
     height: 30px; 
@@ -17,3 +18,18 @@ color:aliceblue;
 padding-left: 125px;
 padding-top: 5px ;
     }
+li a {
+
+    text-decoration: none;
+    color:aliceblue;
+
+}
+.News{
+width:250px;
+border:2px solid black;
+
+}
+.News img{
+width: 250px;    
+}
+
